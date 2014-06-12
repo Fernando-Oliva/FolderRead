@@ -1,0 +1,11 @@
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\bin\Debug\FolderRead.exe
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\bin\Debug\FolderRead.pdb
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\obj\x86\Debug\MainWindow.baml
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\obj\x86\Debug\MainWindow.g.cs
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\obj\x86\Debug\App.g.cs
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\obj\x86\Debug\FolderRead_MarkupCompile.cache
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\obj\x86\Debug\FolderRead.g.resources
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\obj\x86\Debug\FolderRead.Properties.Resources.resources
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\obj\x86\Debug\FolderRead.csproj.GenerateResource.Cache
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\obj\x86\Debug\FolderRead.exe
+c:\users\foliva\documents\visual studio 2010\Projects\FolderRead\FolderRead\obj\x86\Debug\FolderRead.pdb

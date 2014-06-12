@@ -1,0 +1,14 @@
+﻿<Window x:Class="FolderRead.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>  
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Column="0" Name="btnExport" Width="100" Height="50" Click="btnExport_Click">Export File Names</Button>
+        <Button Grid.Column="1" Name="btnCreateXml" Width="100" Height="50" Click="btnCreateXml_Click">Create XML Structure</Button>
+        <CheckBox Grid.Column="1" Name="chkHaveUrls" HorizontalAlignment="Center" Margin="0,70,0,200">I have URLs</CheckBox>
+    </Grid>
+</Window>
